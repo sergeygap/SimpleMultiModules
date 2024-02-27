@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SimpleMultiModules"
 include ':app'
+include ':domain'
