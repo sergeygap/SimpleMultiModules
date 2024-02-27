@@ -1,6 +1,6 @@
 package com.gap.domain
 
-interface Repository {
+interface AnimeRepository {
 
     /**
      * Boolean - success
