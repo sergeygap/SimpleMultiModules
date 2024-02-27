@@ -2,7 +2,6 @@ package com.gap.data
 
 import com.gap.data.server.ServerDao
 import com.gap.domain.AnimeRepository
-import com.google.gson.GsonBuilder
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
